@@ -1,2 +1,6 @@
-# pasos a realizar para iniciar el proyecto 
-# estas son instrucciones para mis futuros compañeros
+# pasos para correr el proyecto por terminal
+# game project
+```sh
+cd game
+python3 main.py
+```
